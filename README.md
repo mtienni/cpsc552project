@@ -1,4 +1,4 @@
-# CPSC 552 Final Project
+# CPSC 552 Final Project - Entropy regularized contextual dropout
 
 Code is entirely contained in the Jupyter notebook.
 
