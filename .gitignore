@@ -2,3 +2,4 @@ data/
 pres/
 tex/
 *.png
+.DS_Store
